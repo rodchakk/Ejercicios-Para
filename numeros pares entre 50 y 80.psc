@@ -4,4 +4,15 @@
 
 Algoritmo sin_titulo
 	
+	
+	Para i<-50 Hasta 80 Con Paso 2 Hacer
+		Escribir i
+	Fin Para
+	
+	
+	
+	
+	
+	
+	
 FinAlgoritmo
