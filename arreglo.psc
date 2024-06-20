@@ -5,7 +5,9 @@
 
 
 
-Algoritmo sin_titulo
+Algoritmo promedio_con_arreglo
+	
+	Definir promedio Como Real
 	
 	
 	Dimensionar notas[3];
@@ -18,15 +20,13 @@ Algoritmo sin_titulo
 	Fin Para
 	
 	
+	Escribir "Primer nota ingresada  " notas[1]
+	Escribir "Segunda nota ingresada " notas[2]
+	Escribir "Tercer nota ingresada  " notas[3]
 	
+	promedio = notas[1] + notas[2] + notas[3] 
 	
-	
-	
-	Escribir "prueba que resultado esta guardado" notas[1]
-	Escribir "prueba que resultado esta guardado" notas[2]
-	Escribir "prueba que resultado esta guardado" notas[3]
-	
-	
+	Escribir "Promedio de notas es: " promedio/3
 	
 	
 	
