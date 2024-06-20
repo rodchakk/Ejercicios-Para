@@ -13,12 +13,8 @@ Algoritmo sin_titulo
 	Escribir "Ingrese el final de el conteo"
 	Leer f
 	
-	
 	Para i<-f Hasta x Con Paso 1 Hacer
 		Escribir i
 	Fin Para
-	
-
-	
 	
 FinAlgoritmo
