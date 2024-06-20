@@ -16,12 +16,13 @@ Algoritmo sin_titulo
 	Para i<-1 Hasta 3 Con Paso 1 Hacer
 		Escribir "Ingrese el valor " i ":"
 		Leer n
+		suma<-suma+n
 	Fin Para
 
 	
-	suma<-suma+n
+
 	
-	Escribir suma
+	Escribir "El resultado de la suma es: " suma
 	
 	
 FinAlgoritmo
